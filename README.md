@@ -7,7 +7,7 @@ which modified from [ERFNet](https://github.com/Eromera/erfnet_pytorch).
 ![EDANet](https://github.com/wpf535236337/pytorch_EDANet/blob/master/pic/EDANet_figure.png)
 
 ## Network Architecture
-![DownsamplerBlock](https://github.com/wpf535236337/pytorch_EDANet/blob/master/pic/downsampleblock.png) ![EDABlock](https://github.com/wpf535236337/pytorch_EDANet/blob/master/pic/downsampleblock.png)
+![Block](https://github.com/wpf535236337/pytorch_EDANet/blob/master/pic/Block.png)
 
 ## Detail
 ![parameter](https://github.com/wpf535236337/pytorch_EDANet/blob/master/pic/EDANet.png)
